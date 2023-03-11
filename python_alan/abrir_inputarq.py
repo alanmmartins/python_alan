@@ -1,0 +1,6 @@
+arquivo = open (input('nome do arquivo a ser edtado txt : '),'r')
+texto = arquivo.readlines()
+texto.append(input('digite o texto aqui:'))
+arquivo = open (input('nome do aquivo a ser edtado : '),'w')
+arquivo.writelines(texto)
+arquivo.close()
