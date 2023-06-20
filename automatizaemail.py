@@ -2,7 +2,7 @@ import yagmail
 
 # Credenciais do remetente
 email_de = 'alanmunozmartins@gmail.com'
-senha = 'Alan.jade4'
+senha = 'falei a senha sim lll'
 
 # Configuração do e-mail
 destinatario = 'equipealanmartins@gmail.com'
